@@ -1,2 +1,3 @@
 # sign-in
-This is a simple sign in page
+This is a simple login page built with CSS Grid and Flexbox.
+
